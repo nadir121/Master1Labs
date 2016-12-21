@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457901710 source:c:\users\nadir bengana\documents\fcfs\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462711254 source:c:\users\nadir bengana\documents\floyd+dijkstra\main.c
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+
